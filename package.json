@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-fail-generate-with-exit-code",
+  "version": "1.0.0",
+  "description": "A small Nuxt module to cause a non-zero exit if errors are encountered during static generation ",
+  "main": "index.js",
+  "repository": "git@github.com:BKWLD/nuxt-fail-generate-with-exit-code.git",
+  "author": "Bukwild",
+  "license": "MIT"
+}
